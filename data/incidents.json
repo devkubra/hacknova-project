@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "latitude": 26.4499,
+    "longitude": 74.6399,
+    "type": "theft",
+    "severity": 3,
+    "time": "mid_night"
+  },
+  {
+    "id": 2,
+    "latitude": 26.4512,
+    "longitude": 74.641,
+    "type": "kidnapping",
+    "severity": 4,
+    "time": "night"
+  },
+  {
+    "id": 3,
+    "latitude": 26.4475,
+    "longitude": 74.638,
+    "type": "robbery",
+    "severity": 5,
+    "time": "late_night"
+  },
+  {
+    "id": 3,
+    "latitude": 29.4129,
+    "longitude": 74.9256,
+    "type": "robbery",
+    "severity": 5,
+    "time": "late_night"
+  }
+]

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Nightfall</title>
+  </head>
+  <body
+    style="
+      background-color: black;
+      color: white;
+      text-align: center;
+      font-family: sans-serif;
+    "
+  >
+    <h1>Nightfall 🌙</h1>
+    <button onclick="sendPing()">Ping Backend</button>
+
+    <p id="response"></p>
+
+    <script>
+      function sendPing() {
+        fetch("/ping")
+          .then((response) => response.json())
+          .then((data) => {
+            document.getElementById("response").innerText = data.message;
+          });
+      }
+    </script>
+  </body>
+</html>

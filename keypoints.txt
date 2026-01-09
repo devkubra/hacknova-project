@@ -1,0 +1,5 @@
+Nightfall uses Google Maps for trusted location context and navigation familiarity.
+We overlay incident intelligence using Folium to allow custom risk visualization and styling.
+In production, both layers would be unified under Google Maps JavaScript API.
+
+NIGHTFALL aims to help citizens, authorities, and researchers understand crime patterns using geospatial data and real-time visualization.
