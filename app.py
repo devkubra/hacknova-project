@@ -122,7 +122,7 @@ with control_col:
 # LOAD INCIDENT DATA
 # ============================================================
 
-DATA_PATH = r"C:\Users\kubra\Documents\CODING\Python\NIGHTFALL\data\incidents.json"
+DATA_PATH = "data/incidents.json"
 
 with open(DATA_PATH) as f:
     incidents = json.load(f)
