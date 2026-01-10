@@ -1,34 +1,111 @@
 [
   {
-    "id": 1,
-    "latitude": 26.4499,
-    "longitude": 74.6399,
-    "type": "theft",
-    "severity": 3,
-    "time": "mid_night"
+    "type": "Robbery",
+    "severity": "High",
+    "city": "Ajmer",
+    "latitude": 26.4495,
+    "longitude": 74.6382
   },
   {
-    "id": 2,
-    "latitude": 26.4512,
-    "longitude": 74.641,
-    "type": "kidnapping",
-    "severity": 4,
-    "time": "night"
+    "type": "Harassment",
+    "severity": "Medium",
+    "city": "Ajmer",
+    "latitude": 26.4521,
+    "longitude": 74.641
   },
   {
-    "id": 3,
-    "latitude": 26.4475,
-    "longitude": 74.638,
-    "type": "robbery",
-    "severity": 5,
-    "time": "late_night"
+    "type": "Pickpocketing",
+    "severity": "Low",
+    "city": "Ajmer",
+    "latitude": 26.447,
+    "longitude": 74.6355
+  },
+
+  {
+    "type": "Assault",
+    "severity": "High",
+    "city": "Jaipur",
+    "latitude": 26.912,
+    "longitude": 75.787
   },
   {
-    "id": 3,
-    "latitude": 29.4129,
-    "longitude": 74.9256,
-    "type": "robbery",
-    "severity": 5,
-    "time": "late_night"
+    "type": "Harassment",
+    "severity": "Medium",
+    "city": "Jaipur",
+    "latitude": 26.9152,
+    "longitude": 75.7804
+  },
+  {
+    "type": "Stalking",
+    "severity": "Low",
+    "city": "Jaipur",
+    "latitude": 26.9095,
+    "longitude": 75.7901
+  },
+
+  {
+    "type": "Mugging",
+    "severity": "High",
+    "city": "Delhi",
+    "latitude": 28.6132,
+    "longitude": 77.2087
+  },
+  {
+    "type": "Harassment",
+    "severity": "Medium",
+    "city": "Delhi",
+    "latitude": 28.6108,
+    "longitude": 77.2142
+  },
+  {
+    "type": "Pickpocketing",
+    "severity": "Low",
+    "city": "Delhi",
+    "latitude": 28.6173,
+    "longitude": 77.2109
+  },
+
+  {
+    "type": "Robbery",
+    "severity": "High",
+    "city": "Mumbai",
+    "latitude": 19.0762,
+    "longitude": 72.8774
+  },
+  {
+    "type": "Harassment",
+    "severity": "Medium",
+    "city": "Mumbai",
+    "latitude": 19.079,
+    "longitude": 72.8725
+  },
+  {
+    "type": "Snatching",
+    "severity": "Low",
+    "city": "Mumbai",
+    "latitude": 19.0743,
+    "longitude": 72.8801
+  },
+
+  {
+    "type": "Assault",
+    "severity": "High",
+    "city": "Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.5938
+  },
+  {
+    "type": "Harassment",
+    "severity": "Medium",
+    "city": "Bangalore",
+    "latitude": 12.9695,
+    "longitude": 77.5964
+  },
+  {
+    "type": "Pickpocketing",
+    "severity": "Low",
+    "city": "Bangalore",
+    "latitude": 12.9732,
+    "longitude": 77.591
   }
 ]
